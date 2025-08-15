@@ -92,7 +92,7 @@ This system tracks your face position for control:
 ### 3. Penalty Kick Controller
 
 ```bash
-python penalty_kick.py
+python pose_penalty_kick.py
 ```
 
 Specialized controller for football/soccer penalty kicks:
